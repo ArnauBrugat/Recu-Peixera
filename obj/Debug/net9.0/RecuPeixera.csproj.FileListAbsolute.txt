@@ -1,0 +1,14 @@
+C:\Users\Usuari\Desktop\Programacion\RecuPeixera\bin\Debug\net9.0\RecuPeixera.exe
+C:\Users\Usuari\Desktop\Programacion\RecuPeixera\bin\Debug\net9.0\RecuPeixera.deps.json
+C:\Users\Usuari\Desktop\Programacion\RecuPeixera\bin\Debug\net9.0\RecuPeixera.runtimeconfig.json
+C:\Users\Usuari\Desktop\Programacion\RecuPeixera\bin\Debug\net9.0\RecuPeixera.dll
+C:\Users\Usuari\Desktop\Programacion\RecuPeixera\bin\Debug\net9.0\RecuPeixera.pdb
+C:\Users\Usuari\Desktop\Programacion\RecuPeixera\obj\Debug\net9.0\RecuPeixera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuari\Desktop\Programacion\RecuPeixera\obj\Debug\net9.0\RecuPeixera.AssemblyInfoInputs.cache
+C:\Users\Usuari\Desktop\Programacion\RecuPeixera\obj\Debug\net9.0\RecuPeixera.AssemblyInfo.cs
+C:\Users\Usuari\Desktop\Programacion\RecuPeixera\obj\Debug\net9.0\RecuPeixera.csproj.CoreCompileInputs.cache
+C:\Users\Usuari\Desktop\Programacion\RecuPeixera\obj\Debug\net9.0\RecuPeixera.dll
+C:\Users\Usuari\Desktop\Programacion\RecuPeixera\obj\Debug\net9.0\refint\RecuPeixera.dll
+C:\Users\Usuari\Desktop\Programacion\RecuPeixera\obj\Debug\net9.0\RecuPeixera.pdb
+C:\Users\Usuari\Desktop\Programacion\RecuPeixera\obj\Debug\net9.0\RecuPeixera.genruntimeconfig.cache
+C:\Users\Usuari\Desktop\Programacion\RecuPeixera\obj\Debug\net9.0\ref\RecuPeixera.dll
